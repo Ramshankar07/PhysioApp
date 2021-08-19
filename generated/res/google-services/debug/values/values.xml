@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">39482467879-b71ajvt5bkulsvd08tm4h5s30d9lckdt.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">39482467879</string>
+    <string name="google_api_key" translatable="false">AIzaSyDjVb3J9IYljxDzjBJUY-YdcYBWg_5WS1A</string>
+    <string name="google_app_id" translatable="false">1:39482467879:android:538fe42b39709c5e2e5002</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDjVb3J9IYljxDzjBJUY-YdcYBWg_5WS1A</string>
+    <string name="google_storage_bucket" translatable="false">physiotherap-4eef2.appspot.com</string>
+    <string name="project_id" translatable="false">physiotherap-4eef2</string>
+</resources>
